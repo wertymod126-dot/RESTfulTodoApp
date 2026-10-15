@@ -1,0 +1,13 @@
+package com.advertismnt.restfultodoapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RestfulTodoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
